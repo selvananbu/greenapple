@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/greenapple/static/css/main.d1b05096.chunk.css",
-    "main.js": "/greenapple/static/js/main.73e652ec.chunk.js",
-    "main.js.map": "/greenapple/static/js/main.73e652ec.chunk.js.map",
+    "main.js": "/greenapple/static/js/main.89da1887.chunk.js",
+    "main.js.map": "/greenapple/static/js/main.89da1887.chunk.js.map",
     "runtime-main.js": "/greenapple/static/js/runtime-main.18e3ff71.js",
     "runtime-main.js.map": "/greenapple/static/js/runtime-main.18e3ff71.js.map",
-    "static/js/2.05ea6872.chunk.js": "/greenapple/static/js/2.05ea6872.chunk.js",
-    "static/js/2.05ea6872.chunk.js.map": "/greenapple/static/js/2.05ea6872.chunk.js.map",
+    "static/js/2.6a8b57df.chunk.js": "/greenapple/static/js/2.6a8b57df.chunk.js",
+    "static/js/2.6a8b57df.chunk.js.map": "/greenapple/static/js/2.6a8b57df.chunk.js.map",
     "index.html": "/greenapple/index.html",
-    "precache-manifest.13eda49cfd0857e642a067ff35bc0f97.js": "/greenapple/precache-manifest.13eda49cfd0857e642a067ff35bc0f97.js",
+    "precache-manifest.f75d11d183bc32be702f50db988541d6.js": "/greenapple/precache-manifest.f75d11d183bc32be702f50db988541d6.js",
     "service-worker.js": "/greenapple/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/greenapple/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.05ea6872.chunk.js.LICENSE": "/greenapple/static/js/2.05ea6872.chunk.js.LICENSE",
-    "static/media/logo.svg": "/greenapple/static/media/logo.5d5d9eef.svg"
+    "static/js/2.6a8b57df.chunk.js.LICENSE": "/greenapple/static/js/2.6a8b57df.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.18e3ff71.js",
-    "static/js/2.05ea6872.chunk.js",
+    "static/js/2.6a8b57df.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.73e652ec.chunk.js"
+    "static/js/main.89da1887.chunk.js"
   ]
 }
