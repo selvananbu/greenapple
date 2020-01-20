@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "“https://selvananbu.github.io/greenapple/precache-manifest.968a57cdeb422e08466d60c10ffb037d.js"
+  "“https://selvananbu.github.io/greenapple/precache-manifest.177b8029f10552fbe1c03d73834acf54.js"
 );
 
 self.addEventListener('message', (event) => {
