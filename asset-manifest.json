@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "“https://selvananbu.github.io/greenapple/static/css/main.d1b05096.chunk.css",
-    "main.js": "“https://selvananbu.github.io/greenapple/static/js/main.d6bfc2db.chunk.js",
-    "main.js.map": "“https://selvananbu.github.io/greenapple/static/js/main.d6bfc2db.chunk.js.map",
-    "runtime-main.js": "“https://selvananbu.github.io/greenapple/static/js/runtime-main.b0561656.js",
-    "runtime-main.js.map": "“https://selvananbu.github.io/greenapple/static/js/runtime-main.b0561656.js.map",
-    "static/js/2.05ea6872.chunk.js": "“https://selvananbu.github.io/greenapple/static/js/2.05ea6872.chunk.js",
-    "static/js/2.05ea6872.chunk.js.map": "“https://selvananbu.github.io/greenapple/static/js/2.05ea6872.chunk.js.map",
-    "index.html": "“https://selvananbu.github.io/greenapple/index.html",
-    "precache-manifest.177b8029f10552fbe1c03d73834acf54.js": "“https://selvananbu.github.io/greenapple/precache-manifest.177b8029f10552fbe1c03d73834acf54.js",
-    "service-worker.js": "“https://selvananbu.github.io/greenapple/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "“https://selvananbu.github.io/greenapple/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.05ea6872.chunk.js.LICENSE": "“https://selvananbu.github.io/greenapple/static/js/2.05ea6872.chunk.js.LICENSE",
-    "static/media/logo.svg": "“https://selvananbu.github.io/greenapple/static/media/logo.5d5d9eef.svg"
+    "main.css": "/greenapple/static/css/main.d1b05096.chunk.css",
+    "main.js": "/greenapple/static/js/main.73e652ec.chunk.js",
+    "main.js.map": "/greenapple/static/js/main.73e652ec.chunk.js.map",
+    "runtime-main.js": "/greenapple/static/js/runtime-main.18e3ff71.js",
+    "runtime-main.js.map": "/greenapple/static/js/runtime-main.18e3ff71.js.map",
+    "static/js/2.05ea6872.chunk.js": "/greenapple/static/js/2.05ea6872.chunk.js",
+    "static/js/2.05ea6872.chunk.js.map": "/greenapple/static/js/2.05ea6872.chunk.js.map",
+    "index.html": "/greenapple/index.html",
+    "precache-manifest.13eda49cfd0857e642a067ff35bc0f97.js": "/greenapple/precache-manifest.13eda49cfd0857e642a067ff35bc0f97.js",
+    "service-worker.js": "/greenapple/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/greenapple/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.05ea6872.chunk.js.LICENSE": "/greenapple/static/js/2.05ea6872.chunk.js.LICENSE",
+    "static/media/logo.svg": "/greenapple/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0561656.js",
+    "static/js/runtime-main.18e3ff71.js",
     "static/js/2.05ea6872.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d6bfc2db.chunk.js"
+    "static/js/main.73e652ec.chunk.js"
   ]
 }
